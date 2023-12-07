@@ -28,6 +28,12 @@ Moving beyond Excel, I harnessed the power of Tableau to elevate the analysis to
 
 - **Top 20 Wealthiest Countries:** One of the highlights of this project is the creation of a dashboard showcasing the top 20 wealthiest countries. This visual masterpiece encapsulates key economic indicators, offering a snapshot of global economic prowess.
 
+## Top 20 Wealthiest Countries Dashboard 📊
+
+Explore the interactive Tableau visualization showcasing the top 20 wealthiest countries: [Change in British Industries](https://public.tableau.com/views/ChangeinBritishIndustries_16787953758650/ChangeinBritishIndustries)  
+
+[![Change in British Industries](https://public.tableau.com/static/images/Ch/ChangeinBritishIndustries_16787953758650/ChangeinBritishIndustries/1.png)](https://public.tableau.com/views/ChangeinBritishIndustries_16787953758650/ChangeinBritishIndustries)
+
 ## Repository Structure 📂🔗
 
 - `data/`: Contains the Wealth of Nations dataset.
